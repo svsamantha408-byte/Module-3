@@ -10,8 +10,15 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 4. Print the results.
 
 ## 🧾 Program
-Add code here
-
+```
+tuplex = input()
+print("n" in tuplex)
+print("8" in tuplex)
+print("Words without 'e':", l1)
+```
 ## Output
+<img width="1047" height="304" alt="image" src="https://github.com/user-attachments/assets/b7ff7041-9450-4d5e-bdaa-6587c0d8be0b" />
 
 ## Result
+Thus the program executed successfully.
+
